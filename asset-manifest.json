@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e638185.css",
+    "main.js": "/static/js/main.d1442375.js",
+    "static/media/family.JPG": "/static/media/family.7f9312f981c2698983ee.JPG",
+    "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/ponmo-3.jpg": "/static/media/ponmo-3.dd12539c1e905d956968.jpg",
+    "static/media/tosin.JPG": "/static/media/tosin.ecc28aae3884104dbe83.JPG",
+    "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/charis-logo.JPG": "/static/media/charis-logo.cc7e0488dbbc6a0d5a29.JPG",
+    "static/media/p-2.JPG": "/static/media/p-2.ecd7342b34dcf15dcce7.JPG",
+    "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/p-1.JPG": "/static/media/p-1.48980108ca48cff26890.JPG",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/ceo.JPG": "/static/media/ceo.f5e49cc60b7b1880c888.JPG",
+    "static/media/charix.JPG": "/static/media/charix.e91c99aa2d548060bfdb.JPG",
+    "static/media/debby.JPG": "/static/media/debby.2f05a3c646ec7ed95267.JPG",
+    "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "index.html": "/index.html",
+    "main.2e638185.css.map": "/static/css/main.2e638185.css.map",
+    "main.d1442375.js.map": "/static/js/main.d1442375.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e638185.css",
+    "static/js/main.d1442375.js"
+  ]
+}
